@@ -1,1 +1,1 @@
-# auto-complete-component
+# Deel autocomplete component
